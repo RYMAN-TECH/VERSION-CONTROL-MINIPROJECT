@@ -6,4 +6,7 @@ Its also to show the index.html in the root repository in github
 
 Below are the screenshots of the git command prompt and the github repository showing index.html in the root
 
-![gitcommand](./)
+
+![gitcommand](./img/gitcomandscreenshot.png)
+
+![github-html](./img/githubscreenshot.png)
